@@ -1,1 +1,2 @@
-# C26-pirates-invasion-collisoion
+# PRO-C25-SA
+boilerplate code for student activituy
